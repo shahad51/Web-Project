@@ -63,5 +63,5 @@ No installation is required.
 
 ## 👩‍💻 Author
 
-Shahad Alosemy
+**Shahad Alosaimi**
 Software Engineering Graduate
